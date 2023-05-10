@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 😎 
 
 Eu sou o Rafael Oliveira, sou um programador front-end. Atualmente estou criando projetos com:
   <br>
@@ -11,7 +11,19 @@ Eu sou o Rafael Oliveira, sou um programador front-end. Atualmente estou criando
       <br>
      Contate-me
       <p>
-        <a href="https://www.linkedin.com/in/rafael-oliveira-599249267/"> 
-          
-          
+        <a href="https://www.linkedin.com/in/rafael-oliveira-599249267/">
+          <img align="left" src =https://cdn-icons-png.flaticon.com/512/38/38669.png
+         width="22px"a/>
+          <a href="https://www.instagram.com/rafaoliveiiras/">
+                   <img aligh="left" src="https://cdn-icons-png.flaticon.com/512/2190/2190364.png"
+             width="22px"a/>
  
+<a href="https://rafa.rai@hotmail.com">
+  <img align="left" href="https://cdn-icons-png.flaticon.com/512/54/54215.png"
+       width="22px"a/>
+  
+  <br>
+  <br>
+  <p align="left">
+    Linguagens:
+    <br>
