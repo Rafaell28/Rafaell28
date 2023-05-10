@@ -20,10 +20,8 @@ Eu sou o Rafael Oliveira, sou um programador front-end. Atualmente estou criando
  
 <a href="https://rafa.rai@hotmail.com">
   <img align="left" href="https://cdn-icons-png.flaticon.com/512/54/54215.png"
-       width="22px"a/>
-  
+       width="22px"a/ >
+
+[![Rafael stats](https://github-readme-stats.vercel.app/api?username=Rafaell28)](https://github.com/anuraghazra/github-readme-stats)
   <br>
-  <br>
-  <p align="left">
-    Linguagens:
-    <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rafaell28)](https://github.com/anuraghazra/github-readme-stats)
